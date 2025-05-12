@@ -162,8 +162,4 @@ public class ABB {
      ABB.buscar(12);
  }
  
- /* Realice algunos cambios en el codigo dado originalmente, asi como un diseño de
-  * impresion mas amigable para el usuario y la creacion de las partes del codigo 
-  * faltantes.
-  */
 }
